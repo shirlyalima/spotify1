@@ -2,6 +2,8 @@
 
 This project is a clone of the Spotify web interface, developed as part of the Imersão Alura course. The goal was to replicate the main features and design of Spotify's web application, focusing on the user interface and experience.
 
+![](https://github.com/shirlyalima/spotify1/blob/7e7af9ab42734b8b340ab07a1fdcac4f49359bb2/exemplo%20do%20projeto.png)
+
 ## Features
 * Sidebar Navigation: Includes Home, Search, and Your Library links.
 * Playlist Creation: Users can create playlists with a simple button click.
